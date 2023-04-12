@@ -1,0 +1,65 @@
+.fondo {
+  background-color: rgb(233, 235, 255);
+}
+.cabecera {
+  margin-bottom: 30px;
+}
+
+.tit-ppal {
+  text-align: left;
+  font-size: 50px;
+  font-style: inherit;
+  padding-bottom: 35px;
+  padding-left: 5px;
+}
+
+.tit-ppal-cent {
+  text-align: center;
+  font-size: 50px;
+  font-style: inherit;
+  padding-bottom: 35px;
+  padding-left: 5px;
+}
+
+.frase {
+  font-style: oblique;
+  font-size: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.list {
+  font-style: initial;
+  font-size: 25px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+
+.for-inp{
+  padding: 5px 530px 10px 50px;
+  font-style: italic;
+  font-weight: bolder;
+  flood-opacity: 20%;
+}
+
+.boton{
+  text-align: center;
+  padding: 30px 0 20px 0;
+}
+
+.imagen {
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pie {
+  margin-top: 30px;
+  
+}
+
+.link-perfil{
+text-align: right;
+}
